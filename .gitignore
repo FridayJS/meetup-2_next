@@ -1,0 +1,14 @@
+#IDEs
+.idea
+.DS_Store
+
+#modules
+node_modules
+
+#bundles & additional files
+dist
+.next
+
+#logs
+*.log
+*.log.*
